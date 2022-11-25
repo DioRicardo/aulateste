@@ -16,7 +16,8 @@ namespace TesteConexaoAPIZM
             foreach (var item in users)
             {
                 Console.WriteLine(item.Name);
-                Console.WriteLine(item.Email);                
+                Console.WriteLine(item.Email);
+                Console.WriteLine(item.Phone);                
             }
 
         }
