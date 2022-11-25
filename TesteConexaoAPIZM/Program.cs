@@ -15,8 +15,11 @@ namespace TesteConexaoAPIZM
             
             foreach (var item in users)
             {
+                Console.Write("Nome do usuário: ")
                 Console.WriteLine(item.Name);
+                Console.Write("E-mail: ");
                 Console.WriteLine(item.Email);
+                Console.Write("Telefone: ");
                 Console.WriteLine(item.Phone);                
             }
 
