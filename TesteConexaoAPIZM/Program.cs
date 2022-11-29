@@ -15,13 +15,18 @@ namespace TesteConexaoAPIZM
             
             foreach (var item in users)
             {
-                Console.Write("Nome do usuário: ");
+                Console.WriteLine("Próximo usuário:");
+                Console.Write("Nome do Cliente: ");
                 Console.WriteLine(item.Name);
                 Console.Write("E-mail: ");
                 Console.WriteLine(item.Email);
-                Console.Write("Telefone: ");
+                Console.Write("Número de Telefone: ");
                 Console.WriteLine(item.Phone);
-                Console.WriteLine("----------------------//----------------------");           
+                Console.Write("Endereço: ");
+                Console.WriteLine(item.Address);
+                Console.Write("Empresa: ");
+                Console.WriteLine(item.Company);
+                Console.WriteLine("----------------------//----------------------");                           
             }
 
         }
