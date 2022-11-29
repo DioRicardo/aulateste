@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQ9IoYX0kCiiQsaB4c4UUXPc5klkbDqR5hr+euYappH++XfHchEMrrA9JsYIPzZFSyaAWGa01Lay7/BUUmpLSQ==",
+  "dgSpecHash": "fdkWOYqM4P8gB6NAcg3FTssOnNIw/QAP46q4dUiEIr3R4kyw4iVwV2wqZ3uqjI6uq0lIF4IYGJU+qQSWk1VLgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Engie\\Desktop\\Pessoais PC\\Curso C-sharp\\projetos\\TesteConexaoAPIZM\\TesteConexaoAPIZM\\TesteConexaoAPIZM.csproj",
+  "projectFilePath": "C:\\Users\\Engie\\Desktop\\Pessoais PC\\Curso C-sharp\\projetos\\ApiPublica\\TesteConexaoAPIZM\\TesteConexaoAPIZM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Engie\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
     "C:\\Users\\Engie\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"

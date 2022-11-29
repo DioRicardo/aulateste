@@ -106,11 +106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Engie\\Desktop\\Pessoais PC\\Curso C-sharp\\projetos\\TesteConexaoAPIZM\\TesteConexaoAPIZM\\TesteConexaoAPIZM.csproj",
+      "projectUniqueName": "C:\\Users\\Engie\\Desktop\\Pessoais PC\\Curso C-sharp\\projetos\\ApiPublica\\TesteConexaoAPIZM\\TesteConexaoAPIZM.csproj",
       "projectName": "TesteConexaoAPIZM",
-      "projectPath": "C:\\Users\\Engie\\Desktop\\Pessoais PC\\Curso C-sharp\\projetos\\TesteConexaoAPIZM\\TesteConexaoAPIZM\\TesteConexaoAPIZM.csproj",
+      "projectPath": "C:\\Users\\Engie\\Desktop\\Pessoais PC\\Curso C-sharp\\projetos\\ApiPublica\\TesteConexaoAPIZM\\TesteConexaoAPIZM.csproj",
       "packagesPath": "C:\\Users\\Engie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Engie\\Desktop\\Pessoais PC\\Curso C-sharp\\projetos\\TesteConexaoAPIZM\\TesteConexaoAPIZM\\obj\\",
+      "outputPath": "C:\\Users\\Engie\\Desktop\\Pessoais PC\\Curso C-sharp\\projetos\\ApiPublica\\TesteConexaoAPIZM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Engie\\AppData\\Roaming\\NuGet\\NuGet.Config",
